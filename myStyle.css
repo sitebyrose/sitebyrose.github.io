@@ -38,6 +38,7 @@
         display: block;
       }
       
-      background-color: rgb(251,246,246);
-      
+      body {
+        background:rgb(251,246,246);
+      }
  
