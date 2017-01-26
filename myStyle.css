@@ -15,7 +15,7 @@ header {
     }
     img {
       margin: 2px 0px 0px 0px;
-      border: 7px rgb(251,246,246);
+      border: 7px black;
       border-radius: 20px;
       width: 267px;
     }
@@ -44,8 +44,6 @@ header {
         display: block;
       }
      
-     h2 {
-     color: pink}
       
 
  
