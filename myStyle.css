@@ -37,12 +37,15 @@ header {
       h1 {
         font-size: 36px;
         padding: 5px;  
-     color: pink}
+     }
      
       li {
         padding: 5px;
         display: block;
       }
+     
+     h2 {
+     color: pink}
       
 
  
