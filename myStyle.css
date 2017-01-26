@@ -1,4 +1,10 @@
-  header {
+ 
+   
+      body {
+        background:rgb(251,246,246);
+      }
+ 
+header {
       text-align: center;
       background: rgb(236,250,252);
       background-size: cover;
@@ -38,7 +44,3 @@
         display: block;
       }
       
-      body {
-        background:rgb(251,246,246);
-      }
- 
