@@ -36,7 +36,8 @@ header {
     @media (max-width: 500px) {
       h1 {
         font-size: 36px;
-        padding: 5px;      }
+        padding: 5px;  
+     color: pink}
      
       li {
         padding: 5px;
